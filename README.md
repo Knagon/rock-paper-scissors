@@ -56,7 +56,7 @@ rock_paper_scissors/
 ### Wynik rundy
 
 ![Wynik rundy](images/Result.PNG)
-*Użytkownik wybiera swój ruch, a gra wyświetla odpowiedni ASCII‑art.*
+*Gra prezentuje ruch gracza i komputera, a następnie wyświetla informację o zwycięzcy rundy.*
 
 
 
